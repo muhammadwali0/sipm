@@ -1,0 +1,5 @@
+INVESTMENT PERFORMANCE SUMMARY
+------------------------------
+Mean Return: 0.7363
+Risk Factor: 1.8067
+Risk Category: High Volatility Asset
