@@ -1,4 +1,4 @@
-# Strategic Investment & Portfolio Manager (C)
+# Strategic Investment & Portfolio Manager
 
 A console-based investment analysis system written in **C**, designed to simulate real-world portfolio evaluation using historical price data.  
 The program performs **risk and return analysis**, **price range analytics**, and **future investment growth forecasting** using core concepts from statistics, recursion, file handling, and pointer manipulation.
