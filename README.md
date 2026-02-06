@@ -47,8 +47,11 @@ The program performs **risk and return analysis**, **price range analytics**, an
 ## 🗂️ Project Structure
 
 ├── main.c # Core program source code
+
 ├── prices.txt # Historical price data (user-provided)
+
 ├── report.txt # Auto-generated investment summary
+
 └── README.md
 
 
